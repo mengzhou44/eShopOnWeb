@@ -1,4 +1,8 @@
-![Workflow Status](https://github.com/mengzhou44/eShopOnWeb/actions/workflows/eshoponweb-cicd.yml
+# My Project
+
+
+![Workflow Status](https://github.com/mengzhou44/eShopOnWeb/actions/workflows/eshoponweb-cicd.yml/badge.svg)
+ 
 
 
 [![Build Status](https://github.com/dotnet-architecture/eShopOnWeb/workflows/eShopOnWeb%20Build%20and%20Test/badge.svg)](https://github.com/dotnet-architecture/eShopOnWeb/actions)
